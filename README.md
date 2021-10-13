@@ -1,7 +1,22 @@
 # PiCar-Sample-Files
 Sample Python Codes for PiCar-X 
 
-References & Useful Links
+This repository includes the following sample Python codes for PiCar-X Tech Robot. It also includes general information about the device and its operation.
+
+- Background_Music.py
+- Color_Detection.py
+- Computer_Vision.py
+- Face_Detection.py
+- Line_Tracking.py
+- Move_Camera.py
+- Move_Wheels.py
+- Obstacle_Avoidance.py
+- Sound_Effect.py
+- Text_to_Speech.py
+- Video_Car.py
+
+
+Below you can find some useful links regarding PiCar-X:
 
 [1]. SunFounder Website for PiCar-X
 https://www.sunfounder.com/collections/featured-products/products/picar-x
