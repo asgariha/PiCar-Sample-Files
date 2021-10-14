@@ -4,17 +4,34 @@ Sample Python Codes for PiCar-X
 This repository includes the following sample Python codes for PiCar-X Tech Robot. It also includes general information about the device and its operation.
 
 - Background_Music.py
-- Color_Detection.py
-- Computer_Vision.py
-- Face_Detection.py
-- Line_Tracking.py
+- Grayscale_Sensor.py
 - Move_Camera.py
 - Move_Wheels.py
 - Obstacle_Avoidance.py
 - Sound_Effect.py
 - Text_to_Speech.py
-- Video_Car.py
 
+**********************************************************
+
+PiCar-X Operation Instructions:
+1.	Connect your PC to the WIFI connection that already configured on the Raspberry Pi of all available PiCar-X robots. You will be advised about the relevant WIFI name and password.
+
+2.	Download and install Visual Studio Code (VS Code) on your PC using the following link if you have not already done so: https://code.visualstudio.com/
+You may also prefer to use other code editors such as PyCharm, but in this case you have to do the SSH configuration by yourself.
+
+3. In the search box of VS Code, search for and install the Remote-SSH extension, which is used for connecting your PC to SSH hosts. You can also search for and install Python3 using the box if you have not already installed it on your PC. 
+ 
+4.	Switch on your PiCar-X. You will hear a voice telling you the IP address of the device. Take a note of it. 
+
+5.	Write down the IP address in the SSH Target box.
+
+6.	Enter the SSH password, which is told by your PiCar-X.
+
+8.	It is done. You should be connected to the device now.
+
+9.	Now you can create your Python file in CS Code editor and run the Python code on your PiCar.
+
+**********************************************************
 
 Below you can find some useful links regarding PiCar-X:
 
