@@ -36,7 +36,7 @@ https://github.com/asgariha/PiCar-Sample-Files
 [6]. PiCar-X Commands for Writing Python Codes
 https://docs.sunfounder.com/projects/picar-x/en/latest/python_move.html
 
-[7]. Installation of code visual studio
+[7]. Installation of Visual Studio Code
 https://code.visualstudio.com/
 
 [8]. Installation of Putty
