@@ -5,26 +5,26 @@ This repository includes the following sample Python codes for PiCar-X Tech Robo
 
 The sample codes include:
 
-- Background_Music.py
-  You can add this piece of code to your script to enjoy listening to music during running the car.
+- Background_Music.py:
+   You can add this piece of code to your script to enjoy listening to music during running the car.
   
-- Grayscale_Sensor.py
- This code can activate the Grayscale Sensor. The three-channel grayscale module integrated into PiCar-X prevents the car from falling off the cliff when it moves freely. It can   also be used for implementing running along the line.
+- Grayscale_Sensor.py:
+  This code can activate the Grayscale Sensor. The three-channel grayscale module integrated into PiCar-X prevents the car from falling off the cliff when it moves freely. It can   also be used for implementing running along the line.
  
-- Move_Camera.py
-  This code shows how you can move the camera in different directions. 
+- Move_Camera.py:
+   This code shows how you can move the camera in different directions. 
 
-- Move_Wheels.py
-  You can manage the movement of the wheels. Four wheels with powerful motors have flexibility on the back and forth movements, and also 360° turning.
+- Move_Wheels.py:
+   You can manage the movement of the wheels. Four wheels with powerful motors have flexibility on the back and forth movements, and also 360° turning.
 
-- Obstacle_Avoidance.py
- This code can be used to measure the distance between the PiCar and obstacles for taking proper action before the conflict.
+- Obstacle_Avoidance.py:
+  This code can be used to measure the distance between the PiCar and obstacles for taking proper action before the conflict.
  
-- Sound_Effect.py
-  It can be used for making your desired sound effect.
+- Sound_Effect.py:
+   It can be used for making your desired sound effect.
   
-- Text_to_Speech.py
-  This code converts text into voice, and you can hear the voice from the PiCar. 
+- Text_to_Speech.py:
+   This code converts text into voice, and you can hear the voice from the PiCar. 
 
 **********************************************************
 
